@@ -1734,8 +1734,7 @@ Luis Daniel
 
 
 
-</span
-    >
+</span>
   </div>
 </article>
 
@@ -1744,10 +1743,6 @@ Luis Daniel
     </div>
 
 
-
-
-</tr>
-</table>
 
 
 
@@ -2274,54 +2269,6 @@ Son útiles para frenar la aeronave en el aire, especialmente en descensos pronu
 
 
 
-<div id="Control" class="tabcontent">
-
-
-<center><div class="cuaColor">
-
-  <button class="red-btn">
-     <h3>Controles primarios: Incluyen los mandos que afectan directamente la actitud y dirección del avión. Los principales son:</h3>
-     <br>
-  Alerones: Controlan el movimiento lateral del avión (roll).
-  <br>
-  <br>
-  Elevador: Controla la inclinación hacia arriba o abajo (pitch).
-  <br>
-  <br>
-  Rudder (timón): Controla el movimiento horizontal (yaw).
-
-  <br>
-</button>
-
-<br>
-
-  <button class="blue-btn">
-    <h3>Controles secundarios: Incluyen dispositivos que afectan el rendimiento y la estabilidad, como:
-</h3>
-<br>
-  Flaps: Aumentan la sustentación durante el despegue y el aterrizaje.
-  <br>
-  <br>
-  Spoilers: Disminuyen la sustentación y aumentan la resistencia para desacelerar el avión.
-
-  
-  </button>
-</div>
-</center>
-
-
-
-
-
-
-<br>
-
-
-
-<button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
-</div>
-
-
 
 
 
@@ -2521,6 +2468,54 @@ Se utilizan tapones u orejeras para protegerse del ruido de los aviones.
 
 
 
+
+
+<div id="Control" class="tabcontent">
+
+
+<center><div class="cuaColor">
+
+  <button class="red-btn">
+     <h3>Controles primarios: Incluyen los mandos que afectan directamente la actitud y dirección del avión. Los principales son:</h3>
+     <br>
+  Alerones: Controlan el movimiento lateral del avión (roll).
+  <br>
+  <br>
+  Elevador: Controla la inclinación hacia arriba o abajo (pitch).
+  <br>
+  <br>
+  Rudder (timón): Controla el movimiento horizontal (yaw).
+
+  <br>
+</button>
+
+<br>
+
+  <button class="blue-btn">
+    <h3>Controles secundarios: Incluyen dispositivos que afectan el rendimiento y la estabilidad, como:
+</h3>
+<br>
+  Flaps: Aumentan la sustentación durante el despegue y el aterrizaje.
+  <br>
+  <br>
+  Spoilers: Disminuyen la sustentación y aumentan la resistencia para desacelerar el avión.
+
+  
+  </button>
+</div>
+</center>
+
+
+
+
+
+
+<br>
+
+
+
+<button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
+</div>
 
 
 
