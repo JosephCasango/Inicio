@@ -896,8 +896,6 @@ button:hover:after {
 
 
 
-</head>
-
 <div class="topnav">
 <center><h1 class="Titulo">CONTROLES DE VUELO PRIMARIOS Y SECUNDARIOS</h1></center>
 
