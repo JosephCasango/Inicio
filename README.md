@@ -1148,20 +1148,19 @@ function showSlides() {
   <div class="content">
 
 
-    <div class="text-23">
+  <div class="text-23">
       <span>
         FLAPS
       </span>
+    <span>DESCRIPCION</span>
 
-      <span>DESCRIPCION</span>
+   </div>
 
-    </div>
-
-    <button class="acButton" onclick="openPage('Flaps', this)">
+   <button class="acButton" onclick="openPage('Flaps', this)">
       Mas INFORMACION
     </button>
 
-    <p class="Dato">
+   <p class="Dato">
 Luis Daniel
     </p>
   </div>
@@ -1179,19 +1178,15 @@ Luis Daniel
   <div class="content">
 
 
-    <div class="text-23">
+   <div class="text-23">
       <span>
         SLATS
       </span>
-
-      <span>DESCRIPCION</span>
-
+    <span>DESCRIPCION</span>
     </div>
-
     <button class="acButton" onclick="openPage('Slats', this)">
       Mas INFORMACION
     </button>
-
     <p class="Dato">
 Luis Daniel
     </p>
@@ -1208,19 +1203,15 @@ Luis Daniel
   <div class="content">
 
 
-    <div class="text-23">
+  <div class="text-23">
       <span>
         Spoilers
       </span>
-
-      <span>DESCRIPCION</span>
-
+    <span>DESCRIPCION</span>
     </div>
-
     <button class="acButton" onclick="openPage('Spoilers', this)">
       Mas INFORMACION
     </button>
-
     <p class="Dato">
 Luis Daniel
     </p>
@@ -1238,20 +1229,20 @@ Luis Daniel
   <div class="content">
 
 
-    <div class="text-23">
+  <div class="text-23">
       <span>
         Aletas
       </span>
 
-      <span>DESCRIPCION</span>
+<span>DESCRIPCION</span>
 
-    </div>
+</div>
 
-    <button class="acButton" onclick="openPage('Aletas', this)">
+<button class="acButton" onclick="openPage('Aletas', this)">
       Mas INFORMACION
     </button>
 
-    <p class="Dato">
+  <p class="Dato">
 Luis Daniel
     </p>
   </div>
@@ -1445,9 +1436,8 @@ Luis Daniel
     <p class="description">En aviones de alta velocidad, los controles de vuelo se dividen en controles de vuelo primarios y controles de vuelo secundarios o auxiliares. Los controles de vuelo primarios maniobran la aeronave sobre los ejes de cabeceo, alabeo y dirección (o guiñada).
 </p>
     
-      <br>
-
-          <p class="description">Se incluyen los alerones, elevadores y timón. Los controles de vuelo secundarios o auxiliares incluyen compensadores, flaps de borde de ataque, flaps de borde de fuga, spoilers, y slats.
+  <br>
+         <p class="description">Se incluyen los alerones, elevadores y timón. Los controles de vuelo secundarios o auxiliares incluyen compensadores, flaps de borde de ataque, flaps de borde de fuga, spoilers, y slats.
 
 </p>
   <br>
@@ -1611,14 +1601,13 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 <div class="cookie-card">
     <span class="title">🍪 Controles De vuelo Secundario</span>
     <p class="description">Los controles de vuelo secundarios son componentes críticos de un avión que ayudan a controlar su movimiento y estabilidad. A continuación, te presento una lista de los controles de vuelo secundarios más comunes:</p>
-    
-      <br>
+        <br>
   <br>
   <table>
     <tr>
     <th>
   
-    <div class="actions">
+  <div class="actions">
   
 
   
@@ -1643,7 +1632,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
   
   
-    </div>
+  </div>
 
 </th>
 
@@ -1675,7 +1664,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
   
   
-    </div>
+  </div>
 
 </th>
 
@@ -1747,7 +1736,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
   
   
-    </div>
+   </div>
 
 </th>
 
@@ -1788,7 +1777,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
     <tr>
     <th>
   
-    <div class="actions">
+   <div class="actions">
   
 
   
@@ -1814,7 +1803,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
   
   
-    </div>
+  </div>
 
 </th>
 
@@ -1847,7 +1836,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
   
   
-    </div>
+   </div>
 
 </th>
 
@@ -1885,7 +1874,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
   
   
-    </div>
+  </div>
 
 
 
@@ -2035,7 +2024,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
 <div id="Slats" class="tabcontent">
 
-    <center><h1>Slats</h1><center>
+   <center><h1>Slats</h1><center>
 
 
 
@@ -2053,9 +2042,8 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
         <span class="card__title">Descripción</span>
         <p class="card__describe">
   Son dispositivos en el borde de ataque del ala que, al extenderse, crean una abertura entre el borde de ataque y el ala.
-
-        </p>
-    </div>
+      </p>
+  </div>
   </div>
   <div class="card">
     <div class="card__image"></div>
@@ -2064,8 +2052,8 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
         <p class="card__describe">
           Mejoran el flujo de aire sobre la superficie del ala, retrasando la entrada en pérdida a altos ángulos de ataque.
 
-        </p>
-    </div>
+  </p>
+  </div>
   </div>
   <div class="card">
     <div class="card__image"></div>
@@ -2073,8 +2061,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
         <span class="card__title">Usos</span>
         <p class="card__describe">
             Al igual que los flaps, se despliegan durante el despegue y el aterrizaje, permitiendo que el avión mantenga un mayor ángulo de ataque sin perder sustentación.
-
-        </p>
+     </p>
     </div>
   </div>
 </div>
@@ -2126,9 +2113,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
         <span class="card__title">Descripción</span>
         <p class="card__describe">
 Son paneles situados en la superficie superior del ala que se levantan para interrumpir el flujo de aire.
-
-
-        </p>
+    </p>
     </div>
   </div>
   <div class="card">
@@ -2139,7 +2124,7 @@ Son paneles situados en la superficie superior del ala que se levantan para inte
         Reducen la sustentación y aumentan la resistencia. Actúan como frenos aerodinámicos y ayudan a reducir la velocidad del avión.
 
 
-        </p>
+   </p>
     </div>
   </div>
   <div class="card">
@@ -2150,7 +2135,7 @@ Son paneles situados en la superficie superior del ala que se levantan para inte
  Se usan en el aterrizaje para disminuir rápidamente la velocidad y en algunas maniobras de vuelo para controlar el alabeo (movimiento de inclinación lateral) de la aeronave.
 
 
-        </p>
+   </p>
     </div>
   </div>
 </div>
@@ -2168,7 +2153,7 @@ Son paneles situados en la superficie superior del ala que se levantan para inte
 
 
 
-    <button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
+  <button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
 </div>
 
 
@@ -2204,8 +2189,7 @@ Son pequeñas superficies verticales ubicadas en las puntas de las alas.
 Similar a los spoilers, pero ubicados en otras partes de la estructura, generalmente en la parte trasera del fuselaje.
 
 
-
-        </p>
+   </p>
     </div>
   </div>
   <div class="card">
@@ -2217,8 +2201,7 @@ Similar a los spoilers, pero ubicados en otras partes de la estructura, generalm
 Su función principal es aumentar la resistencia sin reducir la sustentación.
 
 
-
-        </p>
+  </p>
     </div>
   </div>
   <div class="card">
@@ -2230,7 +2213,7 @@ Aunque no son dispositivos de control en el sentido tradicional, optimizan la ae
 
 Son útiles para frenar la aeronave en el aire, especialmente en descensos pronunciados o cuando se requiere una reducción rápida de la velocidad sin perder altura.
 
-        </p>
+   </p>
     </div>
   </div>
 </div>
@@ -2249,7 +2232,7 @@ Son útiles para frenar la aeronave en el aire, especialmente en descensos pronu
 
 
 
-    <button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
+   <button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
 </div>
 
 
@@ -2412,18 +2395,18 @@ Se utilizan para disminuir el peso y mejorar las prestaciones de los aviones. </
   <div class="content">
 
 
-    <div class="text-23">
+   <div class="text-23">
       <span>
         Protocolo
       </span>
 
-      <span>Inspecciones pre-vuelo</span>
+  <span>Inspecciones pre-vuelo</span>
 
-    </div>
+   </div>
 
 
 
-    <p class="Dato"><FONT COLOR="black">
+   <p class="Dato"><FONT COLOR="black">
 Se realizan inspecciones rápidas para verificar el estado de la aeronave, como el nivel de aceite, los neumáticos y la presencia de daños estructurales. 
     </p></FONT>
   </div>
@@ -2441,18 +2424,18 @@ Se realizan inspecciones rápidas para verificar el estado de la aeronave, como 
   <div class="content">
 
 
-    <div class="text-23">
+  <div class="text-23">
       <span>
         Protocolo
       </span>
 
-      <span>Mantenimiento preventivo</span>
+  <span>Mantenimiento preventivo</span>
 
-    </div>
+   </div>
 
  
 
-    <p class="Dato"><FONT COLOR="black">
+   <p class="Dato"><FONT COLOR="black">
 Se realizan revisiones periódicas para evitar fallos en la aeronave, como la reparación de los neumáticos y amortiguadores del tren de aterrizaje.
     </p></FONT>
   </div>
@@ -2468,18 +2451,17 @@ Se realizan revisiones periódicas para evitar fallos en la aeronave, como la re
   <div class="content">
 
 
-    <div class="text-23">
+   <div class="text-23">
       <span>
         Protocolo
       </span>
+    <span>Equipos de respiración</span>
 
-      <span>Equipos de respiración</span>
-
-    </div>
-
+   </div>
 
 
-    <p class="Dato"><FONT COLOR="black">
+
+   <p class="Dato"><FONT COLOR="black">
 Se utilizan equipos de respiración para controlar el polvo proveniente de operaciones de esmerilado o lijado.
 Aquel que se lleva a cabo en base al seguimiento
     </p></FONT>
@@ -2497,22 +2479,22 @@ Aquel que se lleva a cabo en base al seguimiento
   <div class="content">
 
 
-    <div class="text-23">
+  <div class="text-23">
       <span>
         Protocolo
       </span>
 
-      <span>Dispositivos de ayuda</span>
+   <span>Dispositivos de ayuda</span>
 
-    </div>
+   </div>
 
 
 
-    <p class="Dato"><FONT COLOR="black">
+   <p class="Dato"><FONT COLOR="black">
 Se utilizan dispositivos de ayuda o se pide ayuda para levantar materiales grandes y voluminosos. 
 Se utilizan tapones u orejeras para protegerse del ruido de los aviones. 
 
-    </p></FONT>
+  </p></FONT>
   </div>
 </div>
 </th>
