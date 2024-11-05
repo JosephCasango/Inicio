@@ -1020,32 +1020,32 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 5</div>
-  <center><img src="https://i.pinimg.com/564x/51/c5/da/51c5dade6771b29e663874d4a169d9f9.jpg"  width="871" height="480"></center>
+  <center><img src="https://i.pinimg.com/564x/51/c5/da/51c5dade6771b29e663874d4a169d9f9.jpg"  width="971" height="480"></center>
   <div class="text">Flaps</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 5</div>
-  <center><img src="https://i.pinimg.com/564x/cd/a2/ad/cda2ad018bca8199381ef880e9a93f34.jpg"  width="771" height="380"></center>
+  <center><img src="https://i.pinimg.com/564x/cd/a2/ad/cda2ad018bca8199381ef880e9a93f34.jpg"  width="971" height="380"></center>
   <div class="text">Flaps</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 5</div>
-  <center><img src="https://i.pinimg.com/564x/72/8f/43/728f43f530d30c8f803aef26347be2f4.jpg"  width="771" height="380"></center>
+  <center><img src="https://i.pinimg.com/564x/72/8f/43/728f43f530d30c8f803aef26347be2f4.jpg"  width="971" height="380"></center>
   <div class="text">Flaps</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 5</div>
-  <center><img src="https://i.pinimg.com/564x/77/bc/be/77bcbe3d2da06f683b6179deca2dfd71.jpg"  width="771" height="380"></center>
+  <center><img src="https://i.pinimg.com/564x/77/bc/be/77bcbe3d2da06f683b6179deca2dfd71.jpg"  width="971" height="380"></center>
   <div class="text">Flaps</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 5</div>
-  <center><img src="https://i.pinimg.com/564x/d5/58/18/d55818d31052757d5d38f530bf6928f4.jpg"  width="771" height="380"></center>
+  <center><img src="https://i.pinimg.com/564x/d5/58/18/d55818d31052757d5d38f530bf6928f4.jpg"  width="971" height="380"></center>
   <div class="text">Flaps</div>
 </div>
 
