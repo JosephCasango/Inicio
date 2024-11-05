@@ -1960,6 +1960,202 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
 
 
+<div id="Protocolo" class="tabcontent">
+
+
+
+
+
+
+<center><h3>La tecnología ha revolucionado la industria de la aviación, con avances que mejoran la experiencia del pasajero y la seguridad de los vuelos: </h3></center>
+
+<center><p>Biometría y reconocimiento facial
+Permite a los viajeros realizar el check-in sin necesidad de mostrar documentos, lo que acelera el proceso de seguridad y embarque. 
+Realidad virtual y realidad aumentada
+Estas tecnologías pueden recopilar datos en tiempo real y pronosticar reparaciones. 
+Asistentes de robótica
+Ayudan a los pasajeros a moverse por el aeropuerto y a mantener un registro de la información de los vuelos. 
+Pantallas en los asientos
+Permiten a las aerolíneas "empujar" contenido y ofertas directamente a los pasajeros. 
+Sensores en los aviones
+Monitorean continuamente partes de la aeronave y predicen fallas del equipo. 
+Mantenimiento predictivo
+Permite a las aerolíneas optimizar los recursos y reducir los costos operativos. 
+Aviones eléctricos, híbridos o con combustibles de cero emisiones
+Se orientan a la descarbonización. 
+Impresión 3D o fabricación aditiva
+Se utilizan para disminuir el peso y mejorar las prestaciones de los aviones. </p></center>
+<br>
+
+
+
+
+<center>
+<table>
+  <tr>
+    <th>
+<div class="cuadros">
+  <div class="ilustracion"><img src="https://i.pinimg.com/564x/5a/59/62/5a59627f21ec658773182c3cf22bf7c5.jpg" class="img-circle" alt="Cinque Terre" width="300" height="180"></div>
+  <div class="content">
+
+
+   <div class="text-23">
+      <span>
+        Protocolo
+      </span>
+
+  <span>Inspecciones pre-vuelo</span>
+
+   </div>
+
+
+
+   <p class="Dato"><FONT COLOR="black">
+Se realizan inspecciones rápidas para verificar el estado de la aeronave, como el nivel de aceite, los neumáticos y la presencia de daños estructurales. 
+    </p></FONT>
+  </div>
+</div>
+</th>
+
+
+
+
+<th>
+
+
+<div class="cuadros">
+  <div class="ilustracion"><img src="https://i.pinimg.com/564x/6f/7d/a1/6f7da106b685ad2a3197f9c247cc615f.jpg" class="img-circle" alt="Cinque Terre" width="301" height="180"></div>
+  <div class="content">
+
+
+  <div class="text-23">
+      <span>
+        Protocolo
+      </span>
+
+  <span>Mantenimiento preventivo</span>
+
+   </div>
+
+ 
+
+   <p class="Dato"><FONT COLOR="black">
+Se realizan revisiones periódicas para evitar fallos en la aeronave, como la reparación de los neumáticos y amortiguadores del tren de aterrizaje.
+    </p></FONT>
+  </div>
+</div>
+
+</th>
+
+
+<th>
+
+<div class="cuadros">
+  <div class="ilustracion"><img src="https://i.pinimg.com/564x/b2/b7/1a/b2b71a9a51ca1852a41df51a7f658c12.jpg" class="img-circle" alt="Cinque Terre" width="301" height="180"></div>
+  <div class="content">
+
+
+   <div class="text-23">
+      <span>
+        Protocolo
+      </span>
+    <span>Equipos de respiración</span>
+
+   </div>
+
+
+
+   <p class="Dato"><FONT COLOR="black">
+Se utilizan equipos de respiración para controlar el polvo proveniente de operaciones de esmerilado o lijado.
+Aquel que se lleva a cabo en base al seguimiento
+    </p></FONT>
+  </div>
+</div>
+
+</th>
+
+
+<th>
+
+
+<div class="cuadros">
+  <div class="ilustracion"><img src="https://i.pinimg.com/564x/7a/95/c5/7a95c569ac143d5ce7b34733b02ff953.jpg" class="img-circle" alt="Cinque Terre" width="301" height="180"></div>
+  <div class="content">
+
+
+  <div class="text-23">
+      <span>
+        Protocolo
+      </span>
+
+   <span>Dispositivos de ayuda</span>
+
+   </div>
+
+
+
+   <p class="Dato"><FONT COLOR="black">
+Se utilizan dispositivos de ayuda o se pide ayuda para levantar materiales grandes y voluminosos. 
+Se utilizan tapones u orejeras para protegerse del ruido de los aviones. 
+
+  </p></FONT>
+  </div>
+</div>
+</th>
+
+
+
+
+</tr>
+</table></center>
+
+
+
+  <br>
+
+
+
+<button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2354,164 +2550,6 @@ Son útiles para frenar la aeronave en el aire, especialmente en descensos pronu
 
 
 
-
-<div id="Protocolo" class="tabcontent">
-
-
-
-
-
-
-<center><h3>La tecnología ha revolucionado la industria de la aviación, con avances que mejoran la experiencia del pasajero y la seguridad de los vuelos: </h3></center>
-
-<center><p>Biometría y reconocimiento facial
-Permite a los viajeros realizar el check-in sin necesidad de mostrar documentos, lo que acelera el proceso de seguridad y embarque. 
-Realidad virtual y realidad aumentada
-Estas tecnologías pueden recopilar datos en tiempo real y pronosticar reparaciones. 
-Asistentes de robótica
-Ayudan a los pasajeros a moverse por el aeropuerto y a mantener un registro de la información de los vuelos. 
-Pantallas en los asientos
-Permiten a las aerolíneas "empujar" contenido y ofertas directamente a los pasajeros. 
-Sensores en los aviones
-Monitorean continuamente partes de la aeronave y predicen fallas del equipo. 
-Mantenimiento predictivo
-Permite a las aerolíneas optimizar los recursos y reducir los costos operativos. 
-Aviones eléctricos, híbridos o con combustibles de cero emisiones
-Se orientan a la descarbonización. 
-Impresión 3D o fabricación aditiva
-Se utilizan para disminuir el peso y mejorar las prestaciones de los aviones. </p></center>
-<br>
-
-
-
-
-<center>
-<table>
-  <tr>
-    <th>
-<div class="cuadros">
-  <div class="ilustracion"><img src="https://i.pinimg.com/564x/5a/59/62/5a59627f21ec658773182c3cf22bf7c5.jpg" class="img-circle" alt="Cinque Terre" width="300" height="180"></div>
-  <div class="content">
-
-
-   <div class="text-23">
-      <span>
-        Protocolo
-      </span>
-
-  <span>Inspecciones pre-vuelo</span>
-
-   </div>
-
-
-
-   <p class="Dato"><FONT COLOR="black">
-Se realizan inspecciones rápidas para verificar el estado de la aeronave, como el nivel de aceite, los neumáticos y la presencia de daños estructurales. 
-    </p></FONT>
-  </div>
-</div>
-</th>
-
-
-
-
-<th>
-
-
-<div class="cuadros">
-  <div class="ilustracion"><img src="https://i.pinimg.com/564x/6f/7d/a1/6f7da106b685ad2a3197f9c247cc615f.jpg" class="img-circle" alt="Cinque Terre" width="301" height="180"></div>
-  <div class="content">
-
-
-  <div class="text-23">
-      <span>
-        Protocolo
-      </span>
-
-  <span>Mantenimiento preventivo</span>
-
-   </div>
-
- 
-
-   <p class="Dato"><FONT COLOR="black">
-Se realizan revisiones periódicas para evitar fallos en la aeronave, como la reparación de los neumáticos y amortiguadores del tren de aterrizaje.
-    </p></FONT>
-  </div>
-</div>
-
-</th>
-
-
-<th>
-
-<div class="cuadros">
-  <div class="ilustracion"><img src="https://i.pinimg.com/564x/b2/b7/1a/b2b71a9a51ca1852a41df51a7f658c12.jpg" class="img-circle" alt="Cinque Terre" width="301" height="180"></div>
-  <div class="content">
-
-
-   <div class="text-23">
-      <span>
-        Protocolo
-      </span>
-    <span>Equipos de respiración</span>
-
-   </div>
-
-
-
-   <p class="Dato"><FONT COLOR="black">
-Se utilizan equipos de respiración para controlar el polvo proveniente de operaciones de esmerilado o lijado.
-Aquel que se lleva a cabo en base al seguimiento
-    </p></FONT>
-  </div>
-</div>
-
-</th>
-
-
-<th>
-
-
-<div class="cuadros">
-  <div class="ilustracion"><img src="https://i.pinimg.com/564x/7a/95/c5/7a95c569ac143d5ce7b34733b02ff953.jpg" class="img-circle" alt="Cinque Terre" width="301" height="180"></div>
-  <div class="content">
-
-
-  <div class="text-23">
-      <span>
-        Protocolo
-      </span>
-
-   <span>Dispositivos de ayuda</span>
-
-   </div>
-
-
-
-   <p class="Dato"><FONT COLOR="black">
-Se utilizan dispositivos de ayuda o se pide ayuda para levantar materiales grandes y voluminosos. 
-Se utilizan tapones u orejeras para protegerse del ruido de los aviones. 
-
-  </p></FONT>
-  </div>
-</div>
-</th>
-
-
-
-
-</tr>
-</table></center>
-
-
-
-  <br>
-
-
-
-<button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
-</div>
 
 
 
