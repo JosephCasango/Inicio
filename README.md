@@ -98,7 +98,7 @@ body {
 /* From Uiverse.io by neerajbaniwal */ 
 .Titulo {
 
-  padding: 12px 18px;
+  padding: 12px 10px;
   color: #fff;
   background: linear-gradient(to right, #11d697 0, #00ffe4 10%, White 90%);
   background-position: 0;
