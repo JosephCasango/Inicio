@@ -1773,8 +1773,8 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
  <br>
   <br>
-  <table>
-    <tr>
+<table>
+  <tr>
     <th>
   
    <div class="actions">
@@ -1875,7 +1875,7 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
   
   
   </div>
-
+</th>
 
 
 
