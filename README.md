@@ -1,4 +1,6 @@
+
 <html lang="en">
+<head>
 
 
 
@@ -10,7 +12,7 @@
 * {box-sizing: border-box}
 
 
-
+/* Style tab links */
 .tablink {
   background-color: #555;
   color: white;
@@ -27,7 +29,7 @@
   background-color: #777;
 }
 
-
+/* Style the tab content (and add height:100% for full page content) */
 .tabcontent {
   color: white;
   display: none;
@@ -92,7 +94,8 @@ body {
 
 
 
- 
+
+/* From Uiverse.io by neerajbaniwal */ 
 .Titulo {
 
   padding: 12px 48px;
@@ -161,6 +164,7 @@ body {
 
 
 
+/* From Uiverse.io by Yaya12085 */ 
 .cuadros {
   overflow: hidden;
   border-radius: 0.5rem;
@@ -241,6 +245,8 @@ body {
 
 
 
+
+/* From Uiverse.io by Li-Deheng */ 
 #btn-message {
   --text-color: #000;
   --bg-color-sup: #d2d2d2;
@@ -429,6 +435,8 @@ body {
 
 
 
+
+/* From Uiverse.io by eduardo-amaro-maciel */ 
 .scroll-1::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -530,6 +538,8 @@ body {
 
 
 
+
+/* From Uiverse.io by Javierrocadev */ 
 .Perla {
   width: 550px;
   height: 260px;
@@ -553,6 +563,9 @@ body {
 
 
 
+
+
+/* From Uiverse.io by abhusha08 */ 
 
 
 .red-btn {
@@ -718,6 +731,7 @@ button:hover:after {
 
 
 
+/* From Uiverse.io by Kagamiie */ 
 .project-info {
   padding: 100px 40px;
   display: flex;
@@ -759,6 +773,7 @@ button:hover:after {
 .card-img div {
   width: 90%;
 }
+/*IF USING IMAGES*/
 
 .cota {
   background-color: #d9d9d9;
@@ -778,7 +793,7 @@ button:hover:after {
   justify-content: center;
 }
 
-
+/* Change the .card-img div to .card-img img to use img*/
 .card-img a,
 .card-img div {
   height: 150px;
@@ -896,6 +911,7 @@ button:hover:after {
 
 
 
+
 <div class="topnav">
 <center><h1 class="Titulo">CONTROLES DE VUELO PRIMARIOS Y SECUNDARIOS</h1></center>
 
@@ -907,7 +923,6 @@ button:hover:after {
 
 
 <div id="Inicio" class="tabcontent">
-
 
 
 
@@ -1369,6 +1384,137 @@ Luis Daniel
 
 
 
+<br>
+<br>
+
+
+
+
+<button id="btn-message" class="button-message">
+  <div class="content-avatar">
+    <div class="status-user"></div>
+    <div class="avatar">
+    <center><img src="https://i.pinimg.com/736x/be/cc/05/becc05e8aa630958004f34d387747f43.jpg" class="img-circle" alt="Cinque Terre" width="50" height="40"></center>
+      <svg class="user-img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,12.5c-3.04,0-5.5,1.73-5.5,3.5s2.46,3.5,5.5,3.5,5.5-1.73,5.5-3.5-2.46-3.5-5.5-3.5Zm0-.5c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z"></path></svg>
+    </div>
+  </div>
+  
+  
+  <div class="notice-content">
+  
+  
+  
+   <div class="username">d.lunna_</div>
+    <div class="lable-message">Diego Luna<span class="number-message">5</span></div>
+    <div class="user-id">Instagram</div>
+  </div>
+</button>
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="cookie-card">
+    <span class="title"> Velocidades y Controles</span>
+    <p class="description">En aviones de alta velocidad, los controles de vuelo se dividen en controles de vuelo primarios y controles de vuelo secundarios o auxiliares. Los controles de vuelo primarios maniobran la aeronave sobre los ejes de cabeceo, alabeo y dirección (o guiñada).
+</p>
+    
+      <br>
+
+          <p class="description">Se incluyen los alerones, elevadores y timón. Los controles de vuelo secundarios o auxiliares incluyen compensadores, flaps de borde de ataque, flaps de borde de fuga, spoilers, y slats.
+
+</p>
+  <br>
+
+   <p class="description">Los spoilers se utilizan en el extradós alar para
+deteriorar o reducir la sustentación. Las aeronaves de alta velocidad, debido a su diseño limpio de baja resistencia utilizan spoilers como frenos de velocidad
+para reducir la velocidad. Los spoilers se extienden inmediatamente después de aterrizar para eliminar sustentación y así transferir el peso de la aeronave desde las alas a las ruedas para un mejor rendimiento de frenado.
+
+</p>
+  <br>
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1732,7 +1878,8 @@ Luis Daniel
 
 
 
-</span>
+</span
+    >
   </div>
 </article>
 
@@ -1741,6 +1888,10 @@ Luis Daniel
     </div>
 
 
+
+
+</tr>
+</table>
 
 
 
@@ -1776,108 +1927,6 @@ Luis Daniel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-<br>
-<br>
-
-
-
-
-<button id="btn-message" class="button-message">
-  <div class="content-avatar">
-    <div class="status-user"></div>
-    <div class="avatar">
-    <center><img src="https://i.pinimg.com/736x/be/cc/05/becc05e8aa630958004f34d387747f43.jpg" class="img-circle" alt="Cinque Terre" width="50" height="40"></center>
-      <svg class="user-img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,12.5c-3.04,0-5.5,1.73-5.5,3.5s2.46,3.5,5.5,3.5,5.5-1.73,5.5-3.5-2.46-3.5-5.5-3.5Zm0-.5c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z"></path></svg>
-    </div>
-  </div>
-  
-  
-  <div class="notice-content">
-  
-  
-  
-   <div class="username">d.lunna_</div>
-    <div class="lable-message">Diego Luna<span class="number-message">5</span></div>
-    <div class="user-id">Instagram</div>
-  </div>
-</button>
-
-
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="cookie-card">
-    <span class="title"> Velocidades y Controles</span>
-    <p class="description">En aviones de alta velocidad, los controles de vuelo se dividen en controles de vuelo primarios y controles de vuelo secundarios o auxiliares. Los controles de vuelo primarios maniobran la aeronave sobre los ejes de cabeceo, alabeo y dirección (o guiñada).
-</p>
-    
-      <br>
-
-          <p class="description">Se incluyen los alerones, elevadores y timón. Los controles de vuelo secundarios o auxiliares incluyen compensadores, flaps de borde de ataque, flaps de borde de fuga, spoilers, y slats.
-
-</p>
-  <br>
-
-   <p class="description">Los spoilers se utilizan en el extradós alar para
-deteriorar o reducir la sustentación. Las aeronaves de alta velocidad, debido a su diseño limpio de baja resistencia utilizan spoilers como frenos de velocidad
-para reducir la velocidad. Los spoilers se extienden inmediatamente después de aterrizar para eliminar sustentación y así transferir el peso de la aeronave desde las alas a las ruedas para un mejor rendimiento de frenado.
-
-</p>
-  <br>
- 
-
-</div>
 
 
 
@@ -2267,6 +2316,54 @@ Son útiles para frenar la aeronave en el aire, especialmente en descensos pronu
 
 
 
+<div id="Control" class="tabcontent">
+
+
+<center><div class="cuaColor">
+
+  <button class="red-btn">
+     <h3>Controles primarios: Incluyen los mandos que afectan directamente la actitud y dirección del avión. Los principales son:</h3>
+     <br>
+  Alerones: Controlan el movimiento lateral del avión (roll).
+  <br>
+  <br>
+  Elevador: Controla la inclinación hacia arriba o abajo (pitch).
+  <br>
+  <br>
+  Rudder (timón): Controla el movimiento horizontal (yaw).
+
+  <br>
+</button>
+
+<br>
+
+  <button class="blue-btn">
+    <h3>Controles secundarios: Incluyen dispositivos que afectan el rendimiento y la estabilidad, como:
+</h3>
+<br>
+  Flaps: Aumentan la sustentación durante el despegue y el aterrizaje.
+  <br>
+  <br>
+  Spoilers: Disminuyen la sustentación y aumentan la resistencia para desacelerar el avión.
+
+  
+  </button>
+</div>
+</center>
+
+
+
+
+
+
+<br>
+
+
+
+<button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
+</div>
+
+
 
 
 
@@ -2466,54 +2563,6 @@ Se utilizan tapones u orejeras para protegerse del ruido de los aviones.
 
 
 
-
-
-<div id="Control" class="tabcontent">
-
-
-<center><div class="cuaColor">
-
-  <button class="red-btn">
-     <h3>Controles primarios: Incluyen los mandos que afectan directamente la actitud y dirección del avión. Los principales son:</h3>
-     <br>
-  Alerones: Controlan el movimiento lateral del avión (roll).
-  <br>
-  <br>
-  Elevador: Controla la inclinación hacia arriba o abajo (pitch).
-  <br>
-  <br>
-  Rudder (timón): Controla el movimiento horizontal (yaw).
-
-  <br>
-</button>
-
-<br>
-
-  <button class="blue-btn">
-    <h3>Controles secundarios: Incluyen dispositivos que afectan el rendimiento y la estabilidad, como:
-</h3>
-<br>
-  Flaps: Aumentan la sustentación durante el despegue y el aterrizaje.
-  <br>
-  <br>
-  Spoilers: Disminuyen la sustentación y aumentan la resistencia para desacelerar el avión.
-
-  
-  </button>
-</div>
-</center>
-
-
-
-
-
-
-<br>
-
-
-
-<button class="tablink" onclick="openPage('Inicio', this)" id="defaultOpen">Regresar</button>
-</div>
 
 
 
