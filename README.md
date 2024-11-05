@@ -98,7 +98,7 @@ body {
 /* From Uiverse.io by neerajbaniwal */ 
 .Titulo {
 
-  padding: 12px 48px;
+  padding: 12px 28px;
   color: #fff;
   background: linear-gradient(to right, #11d697 0, #00ffe4 10%, White 90%);
   background-position: 0;
@@ -913,7 +913,7 @@ button:hover:after {
 
 
 <div class="topnav">
-<center><h1 class="Titulo">CONTROLES DE VUELO PRIMARIOS Y SECUNDARIOS</h1></center>
+<center><h3 class="Titulo">CONTROLES DE VUELO PRIMARIOS Y SECUNDARIOS</h3></center>
 
 
 </div>
